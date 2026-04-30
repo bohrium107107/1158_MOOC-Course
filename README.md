@@ -20,3 +20,5 @@ NCrF Level: 6.5
 Industry Details: Software Development
 
 Shift 1
+
+Course 100% complete
