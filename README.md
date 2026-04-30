@@ -13,7 +13,7 @@ Start Date: 12 Jan 2026
 
 End Date: 30 Apr 2026
 
-Exam Date: 18 Jun 2026
+Exam Date: 18 Jun 2026 (registration complete)
 
 NCrF Level: 6.5
 
